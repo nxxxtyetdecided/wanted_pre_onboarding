@@ -3,7 +3,7 @@
 원티드 프리온보딩 코스 _ Backend 과정 선발과제 ([링크](https://docs.google.com/document/d/1Wu429EZ9tR72ITb5u_5wCfw8s5_U_07a01rWEFZiKyQ/edit))
 
 
-## Project Goal (Requirements)
+## 구현 과제
 - 상품 등록
 	- `제목`, `게시자명`, `상품설명`, `목표금액`, `펀딩종료일`, `1회펀딩금액`으로 구성
 - 상품 수정
